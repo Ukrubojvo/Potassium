@@ -1,2 +1,1 @@
-# Potassium
-potassium exec but script ver
+포타슘을 스크립트로!!! (직접 만듦 로블 스튜로)
